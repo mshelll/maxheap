@@ -15,7 +15,7 @@ Python3
 # Install
 
 ```sh
-pip3 install maxheap
+pip3 install maxheapq
 ```
 
 ## Verify install
@@ -26,7 +26,7 @@ Python 3.8.10 (default, Jun  2 2021, 10:49:15)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 >>>
->>> import maxheap
+>>> from maxheap import maxheap
 ```
 
 # Usage
