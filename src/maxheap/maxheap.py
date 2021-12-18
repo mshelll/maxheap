@@ -37,6 +37,7 @@ representation for a tournament.  The numbers below are `k', not a[k]:
 
 __all__ = ['heappush', 'heappop', 'heapify', 'heapreplace', 'merge',
            'nlargest', 'nsmallest', 'heappushpop']
+"""
 
 def heappush(heap, item):
     """Push item onto heap, maintaining the heap invariant."""
