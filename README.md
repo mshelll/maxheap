@@ -10,7 +10,7 @@ In a maxheap largest element has the priority.
 
 # Dependencies
 
-Python3
+Python > 3.6.0
 
 # Install
 
@@ -18,7 +18,7 @@ Python3
 pip3 install maxheapq
 ```
 
-## Verify install
+## Verify
 
 ```sh
 Python 3.8.10 (default, Jun  2 2021, 10:49:15)
