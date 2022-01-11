@@ -1,5 +1,5 @@
 # maxheap
-Existing heapq library can be used as a maxheap by negating the values passed.
+Existing [heapq](https://docs.python.org/3/library/heapq.html) library can be used as a maxheap by negating the values passed.
 We need to negate back while retrieving from the heap as well. This can result in 
 a cumbersome interface. 
 
