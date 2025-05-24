@@ -4,7 +4,7 @@ We need to negate back while retrieving from the heap as well. This can result i
 a cumbersome interface. 
 
 Maxpheap is a implementation similar to heapq that lets you push and pop to the heap.
-In a maxheap largest element has the priority.
+In a maxheap largest element has the highest priority.
 
 ![maxheap.png](maxheap.png "maxheap")
 
